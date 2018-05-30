@@ -191,8 +191,8 @@ progress::-moz-progress-value {
     margin: 0 auto;
     margin-top:20px;
     margin-bottom: 10px;
-    background-image:url('static/image/jianli.JPG');
-    background-size: 120%;
+    background-image:url('https://raw.githubusercontent.com/willstruggle/myresume/master/static/image/jianli.JPG');
+    background-size: 80%;
     background-position:center;
     border-radius:50%;
     border:5px solid #607d8b;
